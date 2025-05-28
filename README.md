@@ -1,3 +1,6 @@
+## Name:Prethivirajan.L
+## Reg No:212224040251
+
 # EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
